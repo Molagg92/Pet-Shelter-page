@@ -4,32 +4,57 @@ body {
 h1 {
   text-align: center;
 }
+h2 {
+  text-align: center;
+}
 .petblog {
   box-sizing: border-box;
   float: left;
   background-color: rgb(228, 191, 191);
-  width: 33%;
+  width: 400px;
+  margin-left: 20px;
+  border: rgb(137, 0, 0) solid;
+  border-width: 10px;
+}
+.petblog h2 {
+  padding-left: 35px;
 }
 .blog {
   border-width: 5px;
 }
 img {
-  
+  margin-left: 15px;
   width: 300px;
   padding-bottom: 50px;
 }
 .blog {
   float: left;
-: left;
+  left;
 }
 .blog p {
-  
+  margin-top: 5px;
 }
-
 .fluff{
   float: right;
-  box-sizing: border-box;
-  width: 33%;
-  height: 500px;
+  width: 400px;
+  height: auto;
   background-color: rgb(228, 191, 191);
+  text-align: mid;
+  border: rgb(137, 0, 0) solid;
+  border-width: 10px;
+  box-sizing: border-box;
+}
+p{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+h4{
+  padding-left: 25px;
+  padding-right: 10px;
+  margin-bottom: 0px;
+}
+.links {
+  bottom: 5px;
+  margin-top: 130vh;
+  text-align: center;
 }
