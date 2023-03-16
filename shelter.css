@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(239, 179, 172);
+}
+h1 {
+  text-align: center;
+}
+.petblog {
+  box-sizing: border-box;
+  float: left;
+  background-color: rgb(228, 191, 191);
+  width: 33%;
+}
+.blog {
+  border-width: 5px;
+}
+img {
+  
+  width: 300px;
+  padding-bottom: 50px;
+}
+.blog {
+  float: left;
+: left;
+}
+.blog p {
+  
+}
+
+.fluff{
+  float: right;
+  box-sizing: border-box;
+  width: 33%;
+  height: 500px;
+  background-color: rgb(228, 191, 191);
+}
